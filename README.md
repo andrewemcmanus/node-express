@@ -57,10 +57,10 @@ module.exports = {
   subtract
 };
 ```
-...and this in index.js:
+...and something like this in ```index.js```:
 
 ```js
-const {meanGirls, gretchen} = require('/myModule.js');
+const {meanGirls, gretchen, trustFall} = require('/myModule.js');
 console.log(gretchen());
 ```
 **Is there a JS6 issue here? I got messages asking me to revise it. After looking at some of these libraries, it does seem like it's interchangeable with the JS5 format.**
