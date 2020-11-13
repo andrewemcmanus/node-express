@@ -2,7 +2,7 @@
 
 Node provides a way of using Javascript as a back-end language, and it allows for connecting files together via dependencies. It requires setting up a package.json file that serves as an entry point for the project.
 
-## Importing packages is like importing a set of preexisting tools specifically designed to perform certain tasks.
+### Importing packages is like importing a set of preexisting tools specifically designed to perform certain tasks.
 
 ```
 npm init
